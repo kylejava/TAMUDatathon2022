@@ -1,5 +1,5 @@
 ## Inspiration
-I really wanted to get into Data Science, I wanted to join this hackathon to learn more about Data Science and get started on a beginner project. I was looking through various resources and trying to find different datasets that would help me get a better idea on what to create. I found a file that contained a bunch of spam messages and non-spam messages and decided to build a classier around it.
+I want to get into Data Science, and thought that this hackathon would be a great opportunity to create a beginner project. I was looking through various resources and trying to find different datasets that would help me get a better idea on what to create. I found a file that contained a bunch of spam messages and non-spam messages and decided to build a classier around it.
 
 ## What it does
 Simply detects whether a message is spam or not.
